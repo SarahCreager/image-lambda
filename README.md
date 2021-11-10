@@ -24,5 +24,5 @@ lambda function must:
 
 ## Links to application deployment
 
-[images.json link]()
+[images.json link](https://creager-image-bucket.s3.us-west-2.amazonaws.com/images.json)
 
